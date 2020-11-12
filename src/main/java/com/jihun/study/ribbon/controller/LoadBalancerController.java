@@ -5,8 +5,6 @@ import com.netflix.client.ClientFactory;
 import com.netflix.client.http.HttpRequest;
 import com.netflix.client.http.HttpResponse;
 import com.netflix.config.ConfigurationManager;
-import com.netflix.discovery.EurekaClient;
-import com.netflix.loadbalancer.LoadBalancerBuilder;
 import com.netflix.niws.client.http.RestClient;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
